@@ -1,0 +1,23 @@
+(function(){
+ var adlDays= 30, adlRetailer="onlinemetals";
+ var qs = document.location.search,adlClkID,adlName,adlPxID,adlURL;
+ if (/[?&]gclid=/.test(qs)) {
+ adlName="gclid";
+ } else if (/[?&]adlclid=/.test(qs)) {
+ adlName="adlclid";
+ }
+ if (adlName) {
+ adlClkID =qs.substring(qs.match("[?&]"+adlName.toString()+"=").index+adlName.length+2).split("&")[0];
+ document.cookie = "_adlClkID="+adlClkID+"; max-age="+(60*60*24*adlDays).toString()+"; path=/";
+ }
+ if (/[?&]adlpxid=/.test(qs)) {
+ adlPxID = qs.substring(qs.match("[?&]adlpxid=").index+9).split("&")[0];
+ adlURL=document.location.protocol+"//tracking.deepsearch.adlucent.com/adlucent/Redirector/beacon?retailer="+adlRetailer+"&clickid="+adlClkID+"&pixelid="+adlPxID;
+ var pix = new Image(1,1); pix.src = adlURL;
+ }
+ })();
+
+
+
+
+
