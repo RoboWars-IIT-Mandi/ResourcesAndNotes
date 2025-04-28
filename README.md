@@ -16,4 +16,8 @@ Books and Articles: While the combat robotics field is constantly evolving, the 
 
 ---
 # Driving
-Servo.h to feed signal to esc
+Servo.h to feed signal to esc. Continuously send signals to the esc to for reversing, and stop when you get a positive signal from the ouput wire of the esc.
+You may implement a way to stop that continuous reverse signal, by checking if the motor has stopped by other means.
+
+Or exclude this alltogether and implement a system of non reversible turning, i.e. if throttle is more than 1500 then none of the motors should reverse even when turning, and vice versa.
+Potential issue that the turning would be very slow.
