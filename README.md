@@ -23,3 +23,18 @@ You may implement a way to stop that continuous reverse signal, by checking if t
 
 Or exclude this alltogether and implement a system of non reversible turning, i.e. if throttle is more than 1500 then none of the motors should reverse even when turning, and vice versa.
 Potential issue that the turning would be very slow.
+
+
+---
+
+# Questions
+
+## Drive
+
+- Voltage double pe rpm double?
+- Brushed esc ki rating kaise dekhte jab voltage double ho jaata, like since rpm double ho rahi, current utna hi rahega kya?(all while Power double ho rahi) and kya esc ki Watt limitation hoti? ki bas current limitation hoti jisse power limitation aati (Power = V * I )?
+- Nayi ESC ka budget hai? and nayi 24V battery(ies) ka? motor to sahi hai RS7775 waali, and RPM bhi agar 24V pe chala rahe, and current bhi typically utna jyaada hoga nahi as Stall current 30A hai, rated current kuch 13A hi hai.
+
+
+
+
