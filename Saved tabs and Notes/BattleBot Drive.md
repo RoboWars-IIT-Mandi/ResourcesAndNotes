@@ -6,3 +6,5 @@
 - Would cytron motor drivers work?
 
 - For the current 1625 esc, how to check if the motor has stopped or not? Use this a feedback to continuously send signal to change direction until it actually starts moving in the direction we want
+
+- For new motor controller, to check if motors moving in sync?(i.e. straight chal rahe?
