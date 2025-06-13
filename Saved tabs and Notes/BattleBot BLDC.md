@@ -1,4 +1,5 @@
 - Weapon Drum ki MOI pata lag jaaye, to usse time to reach full speed, or even just speed, wo equation kya hogi?
+- Agar motor is rated for a higher Voltage than what we are running on, dows this mean that the motor just got more inefficient? Since heat loss is I^2R, and I would be same irrespective of Voltage??(Think in terms of resistance, as Resistance squared hota for difference between motors of same dimension but different kv i.e. different max voltage)
 - How to choose motor when the same motor has different kv ratings? Higer Kv have lower max Voltage, which is ideal as in our case we are doing 6S which is typically the lowest Max Voltage for BLDCs, thought is that we can churn the most power for the Voltage(i.e. 24 in our case). How does this affect the other characteristics of the motor, surely there should be implications? Check [Vedder article](https://vedder.se/2014/10/chosing-the-right-bldc-motor-and-battery-setup-for-an-electric-skateboard/) for choosing skateboard motors.
 
 BLDC ki max speed (unloaded) tab hoti jab back emf is equal to supply voltage. Torque is prop to amount of current flowing. At no load max speed, no diff in voltage b/w voltage of motor and supply, hence no current, hence no torque.\
@@ -15,4 +16,14 @@ The best way to keep your motor cool is to use a motor big enough to handle the 
 - Maytech
 - Flipsky 75100 or 75200 or 75300 or 75350 (Overkill)
 
+## From AskAaron
+- BLDC ki weight roughly 4.4 - 5.1 % of robot weight. (For 8 Kg 4.8% = ~400g)
+- At the least 60 joules per kg; 60x8 = 480J. This is the minimum energy that it should store, but would be better we three times of that.
+- For spin-up time -  aim to spin your weapon up to at least 45 joules per kilo of the bot's weight class in the first two seconds  
+Peak power output is available when the load on the motor limits speed to 1/2 the unloaded motor RPM.  
+Peak Output Watts = Voltage^2 ÷ Resistance × 0.25  
+Stall Amperage = Voltage ÷ Terminal Resistance
+
+- The problem is that the faster the weapon spins, the harder it is to get the weapon to 'bite' into your opponent and get a powerful hit. Atleast the bite of 7mm
+Useable Impactor Height = (Attack speed [in units per second] × 60) ÷ (Weapon RPM × Number of Impactors)
 
