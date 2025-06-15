@@ -12,6 +12,7 @@ The best way to keep your motor cool is to use a motor big enough to handle the 
 
 ## ESC
 - Should we consider whether tuning of ESC is available or not?
+- https://spintend.com/ - best quality to price for VESC
 - Are the normal drone esc okay be used for our case, checkup SimonK and how its tuned
 - Tekin
 - Maytech
