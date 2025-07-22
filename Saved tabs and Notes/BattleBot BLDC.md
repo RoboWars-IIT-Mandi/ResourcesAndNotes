@@ -18,6 +18,12 @@ The best way to keep your motor cool is to use a motor big enough to handle the 
 - Maytech
 - Flipsky 75100 or 75200 or 75300 or 75350 (Overkill)
 
+- The magnetic strength is proportional to the amount of current in the coils
+
+- https://www.reddit.com/r/Nerf/comments/72ybn9/high_fps_flywheels_and_brushless_motors_a/
+the most important of which is the coil resistance, in the case of the Multistar Elite 2204-2300kv it is 0.125 ohms. This would suggest, despite an 11.5 amp rating, a stall current of ~96amps, and so an extraordinary stall torque of 4,066g.cm… but it’s not quite that simple. \
+Before we can assess the FDL we need to understand a little bit about how brushless motors are controlled. The SymonK firmware on the ESC does something interesting. The speed controller does not know what the current is going through it so it does a basic form of current limiting to protect itself and the motor. By default, when the motor start the firmware limits it to a 25% duty cycle, limiting the motor to 25% voltage, meaning the current when it start is reduced to 1,016g.cm. However, the controller then begins to ramp up the voltage applied as the motor accelerates until it reaches an RPM determined by a preset speed, which for this motor and standard firmware is 1627 RPM. What this means is that when the motor reaches 1627 RPM and the full voltage is applied, the torque has increased to 3,824g.cm. Now that is a big number, but there are other factors to consider.
+
 ## From AskAaron
 - BLDC ki weight roughly 4.4 - 5.1 % of robot weight. (For 8 Kg 4.8% = ~400g)
 - At the least 60 joules per kg; 60x8 = 480J. This is the minimum energy that it should store, but would be better we three times of that.
