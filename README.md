@@ -66,8 +66,8 @@ If the front side of robot has a tall chassis, but not its back side, then anoth
 	- 30 to weapon system (weapon, motor, transmission0
 	- 25 to structure and armour (always between 25 to 40)
 	- 15 to battery and electronics
-
 For Drumbot 20-35-30-15
+
 
 Our current bot
 - Drive System = 2.5kg (~30%)
