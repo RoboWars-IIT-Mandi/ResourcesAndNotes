@@ -1,0 +1,2 @@
+- Bevel gears (or stacked) for shock absorbing
+- UHMW Washers for friction reduce (when turning there would be friction, on the opp side to the 'wall' that we are turning to)
