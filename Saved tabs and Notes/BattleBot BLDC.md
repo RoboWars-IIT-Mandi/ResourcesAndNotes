@@ -35,13 +35,3 @@ Stall Amperage = Voltage ÷ Terminal Resistance
 - The problem is that the faster the weapon spins, the harder it is to get the weapon to 'bite' into your opponent and get a powerful hit. Atleast the bite of 7mm
 Useable Impactor Height = (Attack speed [in units per second] × 60) ÷ (Weapon RPM × Number of Impactors)
 
-
-
-## Weapon Motor
-
-- Agar BLDC to ESC kaise choose kare - current rating se. BLDC ki windings ki current sehne ki limitation hoti, and ek Voltage ki.
-- Weapon Drum ki MOI pata lag jaaye, to usse time to reach full speed, or even just ki wo equation kya hogi?
-- Kya load mein BLDC even apne highest power tak pahuch paati
-
----
-
