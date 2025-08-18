@@ -5,6 +5,8 @@
 - Events/Competitions ke baare mein research karna - approximate dates, specific rules (like BITS Hyd mein weight advantage), prize money and logistics, feasibility, and calendars match karna regarding Vacay and holidays and travel {work could be split between members}
 - New members laane
 - Freshers ko recruit karna
+- Ask about the different welding techniques that are available. Ask about all the fabrication options available at campus.
+
 
 
 ## Resources
@@ -12,10 +14,6 @@
 - Check the saved tabs
 - Review the YouTube playlist
 - Saved Reddit comments/Posts
-
----
-
-Ask about the different welding techniques that are available. Ask about all the fabrication options available at campus.
 
 ---
 
