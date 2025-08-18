@@ -13,4 +13,5 @@ You may implement a way to stop that continuous reverse signal, by checking if t
 
 Or exclude this alltogether and implement a system of non reversible turning, i.e. if throttle is more than 1500 then none of the motors should reverse even when turning, and vice versa.
 Potential issue that the turning would be very slow.
+
 ---
