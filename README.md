@@ -1,4 +1,13 @@
-# Resources
+## Things to do
+- New aluminium chassis design and fabrication
+- Spinner design
+- Spon dhundhna (check notes folder for potential spons)
+- Events/Competitions ke baare mein research karna - approximate dates, specific rules (like BITS Hyd mein weight advantage), prize money and logistics, feasibility, and calendars match karna regarding Vacay and holidays and travel {work could be split between members}
+- New members laane
+- Freshers ko recruit karna
+
+
+## Resources
 - Check the main folder for guides
 - Check the saved tabs
 - Review the YouTube playlist
