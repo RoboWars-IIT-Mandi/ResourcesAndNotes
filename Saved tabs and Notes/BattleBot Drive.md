@@ -44,3 +44,31 @@ Tracking Control for Differential-Drive Mobile Robots With Diamond-Shaped Input 
 Lesson 102: Using ZK-5DA to control 2 DC Motor each 4A | Robojax.com : https://robojax.com/course1/?vid=lecture102#google_vignette
 Skid steer controller · Issue #100 · ros-controls/ros_controllers : https://github.com/ros-controls/ros_controllers/issues/100
 New Tab : chrome://newtab/
+
+
+---
+
+## Drive Tabs
+BattleBot/Saved tabs and Notes/BattleBot Drive.md at main · dhakkann/BattleBot : https://github.com/dhakkann/BattleBot/blob/main/Saved%20tabs%20and%20Notes/BattleBot%20Drive.md
+Brushless ESC Becomes Dual-Motor Brushed ESC With A Few Changes | Hackaday : https://hackaday.com/2024/02/15/brushless-esc-becomes-dual-motor-brushed-esc-with-a-few-changes/
+frank26080115/Hydra-Dual-Brushed-Motor-ESC: Dual brushed motor ESC firmware compatible with brushless motor ESCs : https://github.com/frank26080115/Hydra-Dual-Brushed-Motor-ESC
+Other Hardware Hacking · frank26080115/Hydra-Dual-Brushed-Motor-ESC Wiki : https://github.com/frank26080115/Hydra-Dual-Brushed-Motor-ESC/wiki/Other-Hardware-Hacking
+Note: capacitor must be placed at power input · Issue #11 · frank26080115/Hydra-Dual-Brushed-Motor-ESC : https://github.com/frank26080115/Hydra-Dual-Brushed-Motor-ESC/issues/11
+Other Hardware Hacking · frank26080115/Hydra-Dual-Brushed-Motor-ESC Wiki : https://github.com/frank26080115/Hydra-Dual-Brushed-Motor-ESC/wiki/Other-Hardware-Hacking
+Sensorless Brushless Can’t Even | geeks have feelings : https://geekshavefeelings.com/posts/2016/sensorless-brushless-cant-even/
+The Overhaul 2 Design & Build Series: #sadbot2016, The Untold Story; Or, How to Be a Brushless Hipster; Tuning the SimonK Firmware for Robot Drive – Equals Zero : https://www.etotheipiplusone.net/?p=3985
+Issues · amcchord/MegaBrush : https://github.com/amcchord/MegaBrush/issues
+Talon SRX: Advanced Smart Speed Motor Controller for Robotics | CTR El – CTR Electronics : https://store.ctr-electronics.com/products/talon-srx
+Buy Heavy Duty Cytron Motor Drivers in INDIA at best price : https://robu.in/product-category/dc-motors/motor-drivers/cytron-motor-drivers/?orderby=price&q=%2Fproduct-category%2Fdc-motors%2Fmotor-drivers%2Fcytron-motor-drivers%2F
+Buy Cytron 20Amp 6V-30V DC Motor Driver MD20A at Best Price : https://robu.in/product/cytron-20amp-6v-30v-dc-motor-driver-md20a/
+Cytron 20Amp 6V-30V DC Motor Driver : https://robu.in/product/cytron-20amp-6v-30v-dc-motor-driver-2-channels/
+TVS diode across motor leads failing short. How to protect MOSFET from motor back EMF? - Electrical Engineering Stack Exchange : https://electronics.stackexchange.com/questions/641201/tvs-diode-across-motor-leads-failing-short-how-to-protect-mosfet-from-motor-bac
+Cytron Design: DC Motor Driver - How it works | RobotShop Community : https://community.robotshop.com/blog/show/brushed-dc-motor-driver-explained-part-1
+EEVblog 1409 - The Dangers of Inductor Back EMF - YouTube : https://www.youtube.com/watch?v=hReCPMIcLHg&t=1013s
+Back EMF protection diodes with inductive loads | PICAXE Forum : https://picaxeforum.co.uk/threads/back-emf-protection-diodes-with-inductive-loads.23155/
+Tutorial - Experiment 7 - Bi-directional Control Of Motors And The H-Bridge : https://www.learn-c.com/experiment7.htm
+Motor Driver keeps dying/frying driving a worm gear motor – tlfong01.blog : https://tlfong01.blog/2021/05/13/motor-driver-keeps-dying-frying-driving-a-worm-gear-motor-3/
+Smart car BTN7971B dual motor drive D car balanced car group E motor d – Inkocean Technologies : https://inkocean.in/products/smart-car-btn7971b-dual-motor-drive-d-car-balanced-car-group-e-motor-drive-module-motor-drive?variant=20121044090998&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic
+DRV88703.6-A Brushed DC Motor Driver (PWM Control) datasheet (Rev. B) : https://www.ti.com/lit/ds/symlink/drv8870.pdf?ts=1746864692490&ref_url=https%253A%252F%252Fsearch.brave.com%252F
+H-Bridge protection from DC motor noise and regen - Page 1 : https://www.eevblog.com/forum/projects/h-bridge-dc-motor-surge-protection-active-clamp/
+motor formulas / General Science and Electronics / Forums | 4hv.org : https://4hv.org/e107_plugins/forum/forum_viewtopic.php?p=1&id=87193#post-87209
