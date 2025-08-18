@@ -35,3 +35,45 @@ Stall Amperage = Voltage ÷ Terminal Resistance
 - The problem is that the faster the weapon spins, the harder it is to get the weapon to 'bite' into your opponent and get a powerful hit. Atleast the bite of 7mm
 Useable Impactor Height = (Attack speed [in units per second] × 60) ÷ (Weapon RPM × Number of Impactors)
 
+---
+
+## Saved Tabs
+New Tab : chrome://newtab/
+Editing BattleBot/Saved tabs and Notes/BattleBot BLDC.md at main · dhakkann/BattleBot : https://github.com/dhakkann/BattleBot/edit/main/Saved%20tabs%20and%20Notes/BattleBot%20BLDC.md
+Combat robot motors and controllers - The Ask Aaron Archives : http://runamok.tech/AskAaron/motors.html
+Combat Robot Spinning Weapon Design - Ask Aaron : http://runamok.tech/AskAaron/spinner_FAQ.html
+Combat Robot: Estimating Rotary Weapon Spin-up Time : http://runamok.tech/AskAaron/estimating_spinup.html
+Things in Motion: Understanding BLDC (PMSM) electric motors: Base speed, no load speed and torque vs speed : https://things-in-motion.blogspot.com/2019/05/understanding-bldc-pmsm-electric-motors.html
+Chosing the right BLDC motor and battery setup for an electric skateboard | Benjamin's robotics : https://vedder.se/2014/10/chosing-the-right-bldc-motor-and-battery-setup-for-an-electric-skateboard/
+Is higher kv better in motors? - RC Groups : https://www.rcgroups.com/forums/showthread.php?3078773-Is-higher-kv-better-in-motors
+Brushless Motor Power and Efficiency Calculations - Tyto Robotics : https://www.tytorobotics.com/blogs/articles/brushless-motor-power-and-efficiency-analysis
+Scorpion HK5-4030-1005kv - Scorpion Power System : https://www.scorpionsystem.com/catalog/helicopter/HK5_series/HK5_40/HK5_4030_1005/
+RC Electric Motors | Brushed & Brushless Motors | HobbyKing : https://hobbyking.com/en_us/power-systems/electric-motors.html
+SURPASS HOBBY C5065 14pole Outrunner Brushless Motor for Fixed Wing AircraftΦ6.0*23mm 4.0mm Connector (335 KV) - Robu.in | Indian Online Store | RC Hobby | Robotics : https://robu.in/product/surpass-hobby-c5065-14pole-outrunner-brushless-moror-for-fixed-wing-aircraft%cf%866-023mm-4-0mm-connector-335-kv/#tab-product_download_66939_tab
+Explore Diverse range of Drone Motor at Low Price in India : https://robu.in/product-category/drone-parts/drone-motor/page/3/?orderby=price-desc&q=%2Fproduct-category%2Fdrone-parts%2Fdrone-motor%2F&utm_source=bing&utm_medium=cpc&utm_campaign=PMax-Drone%20Parts%20%26%20Accessories&utm_term=robu.in&utm_content=Drone%20Motors
+You searched for 6s 22.2v - Robu.in | Indian Online Store | RC Hobby | Robotics : https://robu.in/?s=6s+22.2v&post_type=product&dgwt_wcas=1
+Brushed and Brushless ESCs - Google Sheets : https://docs.google.com/spreadsheets/d/1iXG_-U036u3jl0MuzTEPDbzxgZP-VuRlwGiqfNZMB4Q/edit?gid=0#gid=0
+BBOX PLUTO H700 MOTOR : https://www.technobotix.in/products/bbox-pluto-h700-530kv-bldc-motor/1781252000001751669
+HobbyKing Red Brick 200A (2~6S) ESC V2 : https://hobbyking.com/en_us/hobbyking-red-brick-200a-2-6s-esc-v2.html?___store=en_us
+HobbyKing YEP 180A HV (4~14S) Brushless Speed Controller (OPTO) : https://hobbyking.com/en_us/yep-180a-hv-4-14s-brushless-speed-controller-opto.html
+Red Brick 200 amp esc - Any good ? - RC Groups : https://www.rcgroups.com/forums/showthread.php?2478135-Red-Brick-200-amp-esc-Any-good
+200A Budget F5B controller - RC Groups : https://www.rcgroups.com/forums/showthread.php?1508380-200A-Budget-F5B-controller&highlight=HK%20200
+Hobbyking SS Series 190-200A ESC 7S what u think? - General - Electric - MSUK RC Car Forum : https://www.msuk-forum.co.uk/forums/topic/151918-hobbyking-ss-series-190-200a-esc-7s-what-u-think/
+cajt/list_of_robot_electronics: A curated list of awesome open source electronic resources for robotics : https://github.com/cajt/list_of_robot_electronics
+ELECTRONICS : https://www.technobotix.in/categories/ELECTRONICS/1781252000000901029
+XC ESC – 12s 120A 48V 12HP Brushless DC Motor Electric Speed Controller — Draft : https://robu.in/product/brushless-dc-motor-electric-speed-controller/
+XC ESC - Drone Electronic Speed Controller supplier : https://www.xc-esc.com/
+XeRun 系列 : https://www.hobbywing.com/products?id=23
+XeRun AXE PLUS R3 : https://www.hobbywing.com/products/xerunaxeplusr3
+XeRun XR8 Plus G2S : https://www.hobbywing.com/products/xerun-xr8-plus-g2s40
+XR8 Plus G2S ESC (2-6S) - HOBBYWING North America : https://www.hobbywingdirect.com/collections/xerun-xr8-esc/products/xerun-xr8-plus-g2s?variant=40122237714547
+EzRun MAX6 G2 : https://www.hobbywing.com/products/ezrunmax6g2
+FLASH HOBBY H600 bldc motor : https://www.technobotix.in/products/bbox-pluto-h600-550kv-bldc-motor/1781252000001751636
+EzRunMAX8 G2S : https://www.hobbywing.com/products/ezrunmax8g2s
+QuicRun WP 8BL150 G2 : https://www.hobbywing.com/products/quicrun-wp-8bl150-g2291
+1900W High Temperature Resistance Skateboard Bldc Motor Brushless For Scooter : https://www.micro-bldcmotor.com/sale-34747851-1900w-high-temperature-resistance-skateboard-bldc-motor-brushless-for-scooter.html
+Custom KV Sensored / Sensorless IP67 Robot Outer Rotor Brushless Dc Motor 24V : https://www.micro-bldcmotor.com/sale-34561844-custom-kv-sensored-sensorless-ip67-robot-outer-rotor-brushless-dc-motor-24v.html
+The New and Improved Brushless Electric Scooter Power System Guide : 19 Steps (with Pictures) - Instructables : https://www.instructables.com/The-New-and-Improved-Brushless-Electric-Scooter-Po/
+Make Your Own Miniature Electric Hub Motor : 14 Steps (with Pictures) - Instructables : https://www.instructables.com/Make-Your-Own-Miniature-Electric-Hub-Motor/
+Sensorless Motor Control: Which Algorithm is Right for your motor? - Solo Motor Controllers : https://www.solomotorcontrollers.com/blog/sensorless/
+Scorpion HKIV-4035-560KV - Scorpion Power System : https://www.scorpionsystem.com/catalog/helicopter/motors_4/hkiv-40/HKIV_4035_560/
