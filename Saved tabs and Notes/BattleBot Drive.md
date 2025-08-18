@@ -15,3 +15,32 @@ Or exclude this alltogether and implement a system of non reversible turning, i.
 Potential issue that the turning would be very slow.
 
 ---
+
+## Differential Drive Saved Tabs
+NodeMCU custom builds : https://nodemcu-build.com/
+2 wheel smooth differential steering system - Google Search : https://www.google.com/search?sca_esv=0c1395bd2e2481ba&rlz=1C1VDKB_enIN1049IN1049&sxsrf=AHTn8zoNF7KBLFlKjQryFmD0BvQ3dqVO_w:1744176841236&q=2+wheel+smooth+differential+steering+system&udm=2&fbs=ABzOT_Cen_XDZtKf_vBGcVfGecI24gcwiADvKL7ToV_4ZQb8U_wgDs7rj_aj9b2OrTsMajXgTpny9qDhAvv5Z8352xBDswVU93fJB6K69Xci_yHKAzJO7tVoPliOU2ugFI7FQEGMBpcTFq9dVgT_6i7cN0lw5KpK3Y_c5oZt-hz9catOqshfsD-CCdwhrOEy9bv0qDh-ZthmtRwbs6THyqOIuIVuY89Ng5L3YNnGRTro5z-yXcxb0RM&sa=X&ved=2ahUKEwi0nbCIncqMAxUpcGwGHfJ0BDoQtKgLegQIEBAB&biw=392&bih=688&dpr=2.75
+CN101332835A - Differential steering mechanism - Google Patents : https://patents.google.com/patent/CN101332835A/en
+Experimental Comparison of Skid Steering Vs. Explicit Steering for a Wheeled Mobile Robot - Robotics Institute Carnegie Mellon University : https://www.ri.cmu.edu/publications/experimental-comparison-of-skid-steering-vs-explicit-steering-for-a-wheeled-mobile-robot/
+How does your car take a turn smoothly - The Differential - Team-BHP : https://www.team-bhp.com/forum/technical-stuff/11958-how-does-your-car-take-turn-smoothly-differential.html
+US3506079A - Six-wheeled vehicle with independent wheel suspension - Google Patents : https://patents.google.com/patent/US3506079
+How Differential Steering Works | Goally TV : https://tv.getgoally.com/chill-zone/vintage%20cars/how-differential-steering-works
+403 Forbidden : https://www.lynxmotion.com/c-30-a4wd1-rovers.aspx
+RCArduino: RC Arduino Robot : https://rcarduino.blogspot.com/2012/05/rc-arduino-robot.html
+A Systems Approach to Smooth Steering | OEM Off-Highway : https://www.oemoffhighway.com/home/article/10166537/a-systems-approach-to-smooth-steering
+Why is differential steering with 2 passive (non caster wheel) not used? - Other Hardware / Robotics - Arduino Forum : https://forum.arduino.cc/t/why-is-differential-steering-with-2-passive-non-caster-wheel-not-used/919564/10
+Two wheeled differential drive robot  | Download Scientific Diagram : https://www.researchgate.net/figure/Two-wheeled-differential-drive-robot_fig1_290304179
+Study on Differential Assist Steering System with Double In‐Wheel Motors with Intelligent Controller - Li - 2015 - Mathematical Problems in Engineering - Wiley Online Library : https://onlinelibrary.wiley.com/doi/10.1155/2015/910230
+Differential Steering vs. Skid Steering : r/robotics : https://www.reddit.com/r/robotics/comments/181uhqo/differential_steering_vs_skid_steering/?rdt=39442
+ARDUINO - Google Drive : https://drive.google.com/drive/u/0/folders/1zhWFlHDuPBDP02ZoSGs2hpzbGMdcg89-
+Computer controlled steering system for vehicles having two independently driven wheels - ScienceDirect : https://www.sciencedirect.com/science/article/abs/pii/S0168169903000814
+System Modeling: Path Tracking for Differential Steering Drive Autonomous Robots - YouTube : https://www.youtube.com/watch?v=Lu1jH2q-MUE
+Kinematics of Differential Drive Robots and Odometry - YouTube : https://www.youtube.com/watch?v=RZlZcDxQ8P4&t=1757s
+icckinematics.pdf : https://www.cs.columbia.edu/~allen/F17/NOTES/icckinematics.pdf
+ESP8266 NodeMCU PWM with Arduino IDE - Dim LED (Analog Output) | Random Nerd Tutorials : https://randomnerdtutorials.com/esp8266-pwm-arduino-ide/
+ESP8266 GPIO Behaviour at Boot : https://rabbithole.wwwdotorg.org/2017/03/28/esp8266-gpio.html
+ESP8266 Pinout Reference: Which GPIO pins should you use? | Random Nerd Tutorials : https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
+Using Diamond Coordinates to Power a Differential Drive.doc : https://latiful.hayat.web.id/wp-content/uploads/2020/06/Using-Diamond-Coordinates-to-Power-a-Differential-Drive.pdf
+Tracking Control for Differential-Drive Mobile Robots With Diamond-Shaped Input Constraints | Request PDF : https://www.researchgate.net/publication/264243182_Tracking_Control_for_Differential-Drive_Mobile_Robots_With_Diamond-Shaped_Input_Constraints
+Lesson 102: Using ZK-5DA to control 2 DC Motor each 4A | Robojax.com : https://robojax.com/course1/?vid=lecture102#google_vignette
+Skid steer controller · Issue #100 · ros-controls/ros_controllers : https://github.com/ros-controls/ros_controllers/issues/100
+New Tab : chrome://newtab/
