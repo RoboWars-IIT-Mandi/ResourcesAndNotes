@@ -9,6 +9,7 @@ Dikkat kahi bhi hoti to heat ki hoti\
 - New members laane
 - Freshers ko recruit karna
 - Ask about the different welding techniques that are available. Ask about all the fabrication options available at campus.
+- Ask where they get raw materials and other equipments for rover
 
 
 ## Resources
@@ -16,6 +17,7 @@ Dikkat kahi bhi hoti to heat ki hoti\
 - Check the saved tabs
 - Review the YouTube playlist
 - Saved Reddit comments/Posts
+- Monash Rover YouTube tutorials - https://www.youtube.com/playlist?list=PL5qSL2ZI1kxaLx8j7aXUSWI0z1PuXzNJ6
 
 ---
 
