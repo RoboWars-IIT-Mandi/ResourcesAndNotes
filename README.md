@@ -1,3 +1,5 @@
+Dikkat kahi bhi hoti to heat ki hoti\
+
 ## Things to do
 - New aluminium chassis design and fabrication
 - Old Chassis to running condition, maybe even make it compatible with the new weapon motor. But it's a hassle to assemble it, really. I think the chassis is bent, but before investigating on this, try to make better mounts for the drive motors.
@@ -7,7 +9,6 @@
 - New members laane
 - Freshers ko recruit karna
 - Ask about the different welding techniques that are available. Ask about all the fabrication options available at campus.
-
 
 
 ## Resources
