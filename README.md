@@ -1,8 +1,9 @@
 Dikkat kahi bhi hoti to heat ki hoti\
 
 ## Things to do
+- Distibute Tasks between peeps
 - New aluminium chassis design and fabrication
-- Old Chassis to running condition, maybe even make it compatible with the new weapon motor. But it's a hassle to assemble it, really. I think the chassis is bent, but before investigating on this, try to make better mounts for the drive motors.
+- Old Chassis to running condition, maybe even make it compatible with the new weapon motor. But it's a hassle to assemble it, really. Check if the chassis is bent, but before investigating on this, try to make better mounts for the drive motors.
 - Spinner design
 - Spon dhundhna (check notes folder for potential spons)
 - Events/Competitions ke baare mein research karna - approximate dates, specific rules (like BITS Hyd mein weight advantage), prize money and logistics, feasibility, and calendars match karna regarding Vacay and holidays and travel {work could be split between members}
@@ -20,6 +21,7 @@ Dikkat kahi bhi hoti to heat ki hoti\
 - Monash Rover YouTube tutorials - https://www.youtube.com/playlist?list=PL5qSL2ZI1kxaLx8j7aXUSWI0z1PuXzNJ6
 
 ---
+## MISC
 
 For upsizing and downsizing, for only the most important parts, like shaft etc, use (scale)^(1.5); scale = (mass ratio)^1/3
 Spin up should be 4 seconds
