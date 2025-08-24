@@ -14,13 +14,13 @@ Dikkat kahi bhi hoti to heat ki hoti\
 
 ## Notes and links
 
-- [BattleBot BLDC](Saved%20tabs%20and%2k0Notes/BattleBot%20BLDC.md)
-- [Battlebot Chassis](Saved%20tabs%20and%20Notes/Battlebot%20Chassis.md)
-- [BattleBot Drive](Saved%20tabs%20and%20Notes/BattleBot%20Drive.md)
-- [BattleBot Guides](Saved%20tabs%20and%20Notes/BattleBot%20Guides.md)
-- [Battlebot Spinner](Saved%20tabs%20and%20Notes/Battlebot%20Spinner.md)
-- [Battlebot Spon](Saved%20tabs%20and%20Notes/Battlebot%20Spon.md)
-- [Technical Fest](Saved%20tabs%20and%20Notes/Technical%20Fest.md)
+- [BLDC Notes](Saved%20tabs%20and%20Notes/BLDC%20Notes.md)
+- [Chassis Notes](Saved%20tabs%20and%20Notes/Chassis%20Notes.md)
+- [Drive Notes](Saved%20tabs%20and%20Notes/Drive%20Notes.md)
+- [Guides Notes](Saved%20tabs%20and%20Notes/Guides%20Notes.md)
+- [Spinner Notes](Saved%20tabs%20and%20Notes/Spinner%20Notes.md)
+- [Spon Notes](Saved%20tabs%20and%20Notes/Spon%20Notes.md)
+- [Technical Fest Notes](Saved%20tabs%20and%20Notes/Technical%20Fest%20Notes.md)
 
 ## Resources
 - Check the main folder for guides
