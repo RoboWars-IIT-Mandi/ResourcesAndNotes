@@ -12,6 +12,15 @@ Dikkat kahi bhi hoti to heat ki hoti\
 - Ask about the different welding techniques that are available. Ask about all the fabrication options available at campus.
 - Ask where they get raw materials and other equipments for rover
 
+## Notes and links
+
+- [BattleBot BLDC](Saved%20tabs%20and%2k0Notes/BattleBot%20BLDC.md)
+- [Battlebot Chassis](Saved%20tabs%20and%20Notes/Battlebot%20Chassis.md)
+- [BattleBot Drive](Saved%20tabs%20and%20Notes/BattleBot%20Drive.md)
+- [BattleBot Guides](Saved%20tabs%20and%20Notes/BattleBot%20Guides.md)
+- [Battlebot Spinner](Saved%20tabs%20and%20Notes/Battlebot%20Spinner.md)
+- [Battlebot Spon](Saved%20tabs%20and%20Notes/Battlebot%20Spon.md)
+- [Technical Fest](Saved%20tabs%20and%20Notes/Technical%20Fest.md)
 
 ## Resources
 - Check the main folder for guides
