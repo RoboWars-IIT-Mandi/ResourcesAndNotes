@@ -2,7 +2,7 @@
 Check AskAaron for that accelaration, and speed calculator
 
 ---
-
+- Drive algos test karna
 - Compare BLDC with DC about weight, price, responsiveness, low-end torque etc (would making custom solutions like encoders and drivers be viable)
 
 - For current drive motors, try the cytron drivers - will fix that stopping while reversing direction

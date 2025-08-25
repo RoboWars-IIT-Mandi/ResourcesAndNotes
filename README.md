@@ -12,7 +12,7 @@ Dikkat kahi bhi hoti to heat ki hoti\
 - Freshers ko recruit karna
 - Ask about the different welding techniques that are available. Ask about all the fabrication options available at campus.
 - Ask where they get raw materials and other equipments for rover
-
+- Drive algo kaunsa use karna chahiye, check which feels more natural - channel mixing from TX; Steering logic with simple clipping; Steering logic with scaled clipping; and finally that interpolation as mentioned in paper (complete implementation) - Check UKD Gemini chat
 ## Notes and links
 
 - [BLDC Notes](Saved%20tabs%20and%20Notes/BLDC%20Notes.md)
