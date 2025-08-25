@@ -4,6 +4,7 @@ Dikkat kahi bhi hoti to heat ki hoti\
 - Distibute Tasks between peeps
 - New aluminium chassis design and fabrication
 - Old Chassis to running condition, maybe even make it compatible with the new weapon motor. But it's a hassle to assemble it, really. Check if the chassis is bent, but before investigating on this, try to make better mounts for the drive motors.
+- Fresher's ke liye readme
 - Spinner design
 - Spon dhundhna (check notes folder for potential spons)
 - Events/Competitions ke baare mein research karna - approximate dates, specific rules (like BITS Hyd mein weight advantage), prize money and logistics, feasibility, and calendars match karna regarding Vacay and holidays and travel {work could be split between members}
