@@ -4,6 +4,7 @@ Check AskAaron for that accelaration, and speed calculator
 ---
 - Drive algos test karna
 - Compare BLDC with DC about weight, price, responsiveness, low-end torque etc (would making custom solutions like encoders and drivers be viable)
+- FailSafe - ki agar signal na aaye, tab bhi bot thoda movement dikhaye, such ki wo immobile na ho - but isme agar actually bot ko rokna then kya karna ispar sochna padega, has safety concerns
 
 - For current drive motors, try the cytron drivers - will fix that stopping while reversing direction
 - Replace RS775 with BLDC while keeping the same gearbox. Check curves for BLDC about speed and torque and power to see if its viable. Jyaada current ki esc ki jaroorat nahi, just reversible esc honi chahiye.
