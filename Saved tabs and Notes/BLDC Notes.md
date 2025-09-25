@@ -1,3 +1,4 @@
+- Lookup the theoretical equations of BLDC motors, mostly regarding the heat generated, we already have the efficiency and enerfy curve, maybe that would help? Check the JPL EELS paper, or the Rover playlist on BLDC
 - For choosing motors of different kV... un motors ko calculator mein daalke dekho ki different gear ratios aur volatage mein changes karke kya effect hoga, and heat output dekhna ho then Resitance pata hogi motors ki to unse calculate kar lena ki relatively difference kya hoga.
 - Hobby BLDC's are thermally constrained, i.e. Max power outut fix rehti, and the ratings jo rehte about continuous current are when used on a Helicopter with LiPo for the duration of flight only - i.e. weight of BLDC (and the shape - like added mechanical fans etc) ko dekhkar motor choose karo
 
