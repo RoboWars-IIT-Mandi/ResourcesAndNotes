@@ -2,6 +2,7 @@ Dikkat kahi bhi hoti to heat ki hoti\
 
 ## Things to do
 - Distibute Tasks between peeps
+- How the money part of workshop works, and also about wire EDM
 - New aluminium chassis design and fabrication
 - Old Chassis to running condition, maybe even make it compatible with the new weapon motor. But it's a hassle to assemble it, really. Check if the chassis is bent, but before investigating on this, try to make better mounts for the drive motors.
 - Fresher's ke liye readme
