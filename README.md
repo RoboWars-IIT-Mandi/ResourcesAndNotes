@@ -1,6 +1,7 @@
 Dikkat kahi bhi hoti to heat ki hoti\
 
 ## Things to do
+- Go through ever part available at robu and robokits, and make a list of things that might be useful to me
 - Distibute Tasks between peeps
 - How the money part of workshop works, and also about wire EDM
 - New aluminium chassis design and fabrication
