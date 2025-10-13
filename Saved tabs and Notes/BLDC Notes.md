@@ -12,6 +12,9 @@ The best way to keep your motor cool is to use a motor big enough to handle the 
 
 ---
 
+- https://www.nmotion.in/products/ncoder-5047
+Rover team has contacts with this company, might get a discount - used in Vesc
+
 ## ESC
 - Should we consider whether tuning of ESC is available or not?
 - https://spintend.com/ - best quality to price for VESC
