@@ -18,6 +18,9 @@ We may implement a way to stop that continuous reverse signal, by checking if th
 Or exclude this alltogether and implement a system of non reversible turning, i.e. if throttle is more than 1500 then none of the motors should reverse even when turning, and vice versa.
 Potential issue that the turning may be slower the requirement.
 
+### Drive Chassis
+The rubber tyres are really strong - don't really need to protect those - can remove the protection for it - will save much weight. But will have to search about how to couple it with the drive motors - problem is ki motor shaft directly attach ho rahi - pura impact motor pe jaayega - will have to find some other way to couple - Copperhead does it by having an axle shaft extusion from the chassis, on which the motor rests with needle bearing - wheel held axially by bolts. Problem would be having that extrusion axle part attached to the chassis
+
 ---
 
 ## Differential Drive Saved Tabs
