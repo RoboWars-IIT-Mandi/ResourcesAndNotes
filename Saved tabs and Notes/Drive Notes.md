@@ -2,6 +2,7 @@
 Check AskAaron for that accelaration, and speed calculator
 
 ---
+- Remove the power to recievr from one of the ESCs - check if it changes anything
 - Drive algos test karna
 - Compare BLDC with DC about weight, price, responsiveness, low-end torque etc (would making custom solutions like encoders and drivers be viable)
 - FailSafe - ki agar signal na aaye, tab bhi bot thoda movement dikhaye, such ki wo immobile na ho - but isme agar actually bot ko rokna then kya karna ispar sochna padega, has safety concerns
