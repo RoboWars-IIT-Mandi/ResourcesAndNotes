@@ -2,6 +2,9 @@
 - Ingenium Drives(https://ingeniumdrives.in/contact-us/) : Based in pune, all related to motors/drive-systems. Sponsor many teams, offer premade brushless drives systems. Sponsors BITS(Hyd) team.
 - HobbyKing(https://hobbyking.com/) : HongKong based, has everything RC
 - Ovonic Batteries(https://www.ovonicshop.com/pages/get-sponsor) : Based in HongKong; offeres FPV grade batteries required specifically for the motors. Sponsors some teams from India as well. (Check prices with Robu)
+- RoboKits(https://robokits.co.in/) : Based in Gandhinagar
+- UAVMarketplace(https://www.uavmarketplace.in/) : Founder same as Technobotix
+- BotMakers(https://www.botmakerstech.in/) : Based in pune
 
 ---
 
