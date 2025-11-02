@@ -1,8 +1,20 @@
 ## Design Docs
-Check AskAaron for that accelaration, and speed calculator
+### Drive calculations
+http://runamok.tech/RunAmok/TTT_example.html
+Amps (per motor) to spin wheels should generally be less than half the 'Stall Amperage' of the motor.\\
+The light motor current consumption indicates that the gear reduction ratio may be reduced to attain higher speed if the arena size allows. We'll investigate that possibility next by Acceleration calculations\\
+A robot that reaches top speed in about half the width of the arena is generally geared properly for performance in that arena.\\
+
+A widely used "rule-of-thumb" in selection states that a set of brushless drive motors together weighing between 2% and 3% of the total weight of the robot will have more than enough power and adequate 'thermal mass' to survive. Smaller motors can supply sufficient power but are prone to failure from overheating.\\
+
+http://runamok.tech/AskAaron/optimum.html
+As a 'rule of thumb' for the motors commonly used in robot drivetrains, look to provide 1.5 to 2.0 times the torque needed for maximum pushing power. This will allow the motor to spin the tire freely if the robot is prevented from moving and keep the motor speed high enough to reduce the current consumption to a reasonable level.\\
+Selection of a ratio within that range can depend on gearbox availability and on the size of the arena; larger arenas may make the higher speed available from lesser reduction ratios more desirable, while smaller arenas favor the greater acceleration available from greater reduction ratios.\\
+
+Make graphs for each gear ratio to find optimum performance.\\
 
 ---
-- Remove the power to recievr from one of the ESCs - check if it changes anything
+- Remove the power to reciever from one of the ESCs - check if it changes anything
 - Drive algos test karna
 - Compare BLDC with DC about weight, price, responsiveness, low-end torque etc (would making custom solutions like encoders and drivers be viable)
 - FailSafe - ki agar signal na aaye, tab bhi bot thoda movement dikhaye, such ki wo immobile na ho - but isme agar actually bot ko rokna then kya karna ispar sochna padega, has safety concerns
