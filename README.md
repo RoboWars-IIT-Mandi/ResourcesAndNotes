@@ -1,17 +1,7 @@
 Dikkat kahi bhi hoti to heat ki hoti\
 
 ## Things to do
-- Go through ever part available at robu and robokits, and make a list of things that might be useful to me
-- Distibute Tasks between peeps
-- How the money part of workshop works, and also about wire EDM
-- New aluminium chassis design and fabrication
 - Old Chassis to running condition, maybe even make it compatible with the new weapon motor. But it's a hassle to assemble it, really. Check if the chassis is bent, but before investigating on this, try to make better mounts for the drive motors.
-- Fresher's ke liye readme
-- Spinner design
-- Spon dhundhna (check notes folder for potential spons)
-- Events/Competitions ke baare mein research karna - approximate dates, specific rules (like BITS Hyd mein weight advantage), prize money and logistics, feasibility, and calendars match karna regarding Vacay and holidays and travel {work could be split between members}
-- New members laane
-- Freshers ko recruit karna
 - Ask about the different welding techniques that are available. Ask about all the fabrication options available at campus.
 - Ask where they get raw materials and other equipments for rover
 - Drive algo kaunsa use karna chahiye, check which feels more natural - channel mixing from TX; Steering logic with simple clipping; Steering logic with scaled clipping; and finally that interpolation as mentioned in paper (complete implementation) - Check UKD Gemini chat
