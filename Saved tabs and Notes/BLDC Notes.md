@@ -1,3 +1,5 @@
+- https://www.lehner-motoren.com/calc/rechner.php?la=en
+
 - Lookup the theoretical equations of BLDC motors, mostly regarding the heat generated, we already have the efficiency and enerfy curve, maybe that would help? Check the JPL EELS paper, or the Rover playlist on BLDC
 - For choosing motors of different kV... un motors ko calculator mein daalke dekho ki different gear ratios aur volatage mein changes karke kya effect hoga, and heat output dekhna ho then Resitance pata hogi motors ki to unse calculate kar lena ki relatively difference kya hoga.
 - Hobby BLDC's are thermally constrained, i.e. Max power outut fix rehti, and the ratings jo rehte about continuous current are when used on a Helicopter with LiPo for the duration of flight only - i.e. weight of BLDC (and the shape - like added mechanical fans etc) ko dekhkar motor choose karo
@@ -9,6 +11,10 @@ Torque is thermally contrained. This thermally constrained torque is rated torqu
 OR THe base speed (also called the rated or nominal speed) is the top speed at which a brushless motor can achieve at it's 'rated torque'. The 'rated torque' is the torque that a motor can output indefinitely without overheating.\
 As a rule of thumb, the rated current, and therefore torque output, of a hobbyist motor will be around one third that of the peak torque value, or around two thirds with aggressive forced air cooling.\
 The best way to keep your motor cool is to use a motor big enough to handle the load, run it at the highest voltage you can (usually 12s) and gear it appropriately so that your target top speed is ~80% of your esc's max erpm.
+
+- [The trade-off is very low Kv motors are less thermally efficient at higher RPM due to their higher internal resistance](https://hypershock.tv/blogs/inside-the-bot/hypermodules?srsltid=AfmBOooXjhTm9iGcSfq4elB6XNPwXkrPnx3YOolSvO6g2-2zwyF8dcsK#:~:text=The%20trade%2Doff%20is%20very%20low%20Kv%20motors%20are%20less%20thermally%20efficient%20at%20higher%20RPM%20due%20to%20their%20higher%20internal%20resistance)
+
+
 
 ---
 
