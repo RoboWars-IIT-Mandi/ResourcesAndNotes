@@ -1,5 +1,7 @@
 Dikkat kahi bhi hoti to heat ki hoti\
 
+If issue is that ESC ko pata nahi ki roto kaha lar hai, then what if hum ek fix starting point rakhe motor ka, and customise the ESC taaki wo ussi ko reference leke chalu ho
+
 ## Things to do
 - Old Chassis to running condition, maybe even make it compatible with the new weapon motor. But it's a hassle to assemble it, really. Check if the chassis is bent, but before investigating on this, try to make better mounts for the drive motors.
 - Ask about the different welding techniques that are available. Ask about all the fabrication options available at campus.
