@@ -1,3 +1,4 @@
+- https://www.arrow.com/en/research-and-events/articles/powering-a-battlebot
 - https://www.lehner-motoren.com/calc/rechner.php?la=en
 
 - Lookup the theoretical equations of BLDC motors, mostly regarding the heat generated, we already have the efficiency and enerfy curve, maybe that would help? Check the JPL EELS paper, or the Rover playlist on BLDC
