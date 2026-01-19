@@ -7,6 +7,10 @@
 
 ---
 
+- https://www.arrow.com/en/research-and-events/articles/battlebot-episode-2
+
+Purposely have really hard material to damage the weapon of other bots
+
 Before starting anything just search up about it, here search up on how to make a combat robot chassis, you'll usually find some organised info, will save time and hassle. Trust the already proven processes.\
 How exactly to attach the motors shaft to the wheel? If wheels exposed then belt, if not protected then direct? But some bots have the wheels at the back, so investigate on that\
 If stuck at making some decision, how to go about it, should I try branching\
